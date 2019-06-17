@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
  * (3)基础组件-Text:
  */
 void main() => runApp(new MaterialApp(
-      title: "Image示例",
+      title: "文本示例",
       home: new TextDemo(),
     ));
 
