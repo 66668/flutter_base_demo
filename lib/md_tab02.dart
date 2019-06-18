@@ -66,7 +66,7 @@ class TabBarSampl extends StatelessWidget {
   }
 }
 
-//被选中的选项卡
+//被选中的内容视图
 class SelectItemView extends StatelessWidget {
   //视图数据
   final ItemBarView item;
@@ -85,7 +85,7 @@ class SelectItemView extends StatelessWidget {
           children: <Widget>[
             new Icon(
               item.icon,
-              size: 128,
+              size: 200,
               color: myStyle.color,
             ),
             new Text(
