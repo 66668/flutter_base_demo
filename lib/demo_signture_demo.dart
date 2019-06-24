@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 /**
- *签名功能 示例
+ * 签名示例
  */
 void main() => runApp(MaterialApp(home: DemoApp()));
 

@@ -84,6 +84,7 @@ flutter:
   # see https://flutter.io/custom-fonts/#from-packages
   #  使用本地图片要声明
   assets:
+    - images/animal1.png
     - images/egg.png
     - images/2.0x/egg.png
     - images/3.0x/egg.png
