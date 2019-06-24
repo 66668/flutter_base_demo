@@ -7,7 +7,9 @@ import 'package:flutter/material.dart';
 void main() => runApp(new MaterialApp(
       title: "Clip 裁剪示例",
       //四种样式，切换测试
-      home: new ClipPathDemo(),
+      home: new ClipOvalDemo(),
+//      home: new ClipPathDemo(),
+//      home: new ClipRRectDemo(),
     ));
 
 /**
